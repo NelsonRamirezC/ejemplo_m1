@@ -1,0 +1,34 @@
+/* .color-bg-personalizado{
+    background-color: blue;
+} */
+
+section{
+    scroll-margin-top:100px;
+}
+/* INICIO ESTILOS PARA CARD DE SECCIÓN X*/
+.card{
+    border:none;
+}
+
+.seccion-principal--texto-principal{
+    font-size:36px;
+}
+
+/*FIN ESTILOS PARA CARD DE SECCIÓN X*/
+
+
+/* INICIO ESTILOS PARA CARRUSEL X*/
+.carousel-indicators{
+    position: inherit
+}
+
+.carousel-indicators [data-bs-target]{
+    height: 30px;
+    border-radius: 50%;
+    background-color: grey;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
